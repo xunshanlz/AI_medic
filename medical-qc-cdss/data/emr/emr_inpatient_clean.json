@@ -1,0 +1,20 @@
+{
+  "hospital_id": "demo-hospital",
+  "patient_id": "P20260118001",
+  "encounter_id": "E20260118001",
+  "encounter_type": "inpatient",
+  "sex": "male",
+  "age": 56,
+  "admit_time": "2026-01-17T08:30:00+08:00",
+  "record_time": "2026-01-17T20:10:00+08:00",
+  "record": {
+    "chief_complaint": "发热伴咳嗽咳痰3天",
+    "present_illness": "患者3天前受凉后出现发热，体温最高38.9℃，伴咳嗽、咳黄痰，无胸痛、咯血及呼吸困难。自服对乙酰氨基酚后体温可暂时下降，但反复。发病以来精神食欲欠佳，二便正常。",
+    "past_history": "既往体健，否认高血压、糖尿病、冠心病病史，否认药物及食物过敏史。吸烟20年，每日10支。",
+    "physical_exam": "T 38.6℃，P 96次/分，R 22次/分，BP 126/78 mmHg。神志清楚，口唇无发绀，双肺呼吸音粗，右下肺可闻及湿啰音，心律齐，腹软无压痛。",
+    "auxiliary_exam": "血常规：WBC 13.2×10^9/L，中性粒细胞 82.4%；CRP 68 mg/L。胸部CT：右下肺斑片状浸润影。",
+    "diagnosis": "社区获得性肺炎",
+    "treatment_plan": "1. 抗感染：头孢曲松 2g 静滴 每日一次；2. 化痰止咳对症治疗；3. 完善痰培养、血培养；4. 监测体温与氧饱和度，必要时吸氧。",
+    "physician_signature": "张医生"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "hospital_id": "demo-hospital",
+  "patient_id": "P20260118002",
+  "encounter_id": "E20260118002",
+  "encounter_type": "inpatient",
+  "sex": "female",
+  "age": 68,
+  "admit_time": "2026-01-15T08:00:00+08:00",
+  "record_time": "2026-01-17T09:00:00+08:00",
+  "record": {
+    "chief_complaint": "发热、咳嗽3天，肺炎",
+    "present_illness": "3天前受凉后出现咳嗽，无发热，自服阿司匹林 500mg 后症状无明显缓解。",
+    "past_history": "前列腺增生病史5年，否认高血压、糖尿病。",
+    "physical_exam": "T 36.8℃，P 88次/分，R 20次/分，血压 190/110 mmHg。双肺可闻及湿啰音。",
+    "auxiliary_exam": "血常规：WBC 11.8×10^9/L。",
+    "diagnosis": "社区获得性肺炎",
+    "treatment_plan": "抗感染、对症支持治疗。"
+  }
+}

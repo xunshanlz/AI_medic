@@ -1,0 +1,18 @@
+{
+  "hospital_id": "demo-hospital",
+  "patient_id": "P20260118003",
+  "encounter_id": "E20260118003",
+  "encounter_type": "outpatient",
+  "sex": "female",
+  "age": 32,
+  "record_time": "2026-01-18T10:20:00+08:00",
+  "record": {
+    "chief_complaint": "咽痛伴低热2天",
+    "present_illness": "2天前受凉后出现咽痛，吞咽时明显，伴低热，体温最高37.8℃，无咳嗽、咳痰，无呼吸困难。",
+    "past_history": "否认慢性病史及药物过敏史。",
+    "physical_exam": "T 37.6℃，咽部充血，双侧扁桃体Ⅰ度肿大，双肺呼吸音清。",
+    "diagnosis": "急性上呼吸道感染",
+    "treatment_plan": "多饮水休息；蒲地蓝口服液 10ml 每日三次；如持续发热超过3天或出现呼吸困难及时复诊。",
+    "physician_signature": "李医生"
+  }
+}
